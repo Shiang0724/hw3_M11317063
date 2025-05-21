@@ -8,3 +8,8 @@ __pycache__/
 *.tar
 *.tar.gz
 *.npz
+*.pkl
+*.model
+*.onnx
+*.log
+
